@@ -1,0 +1,9 @@
+{
+    "author":"p1r4t3",
+    "challengeName":"armoured-notes",
+    "challengeDescription" :"Can you break my emerging note making app? It is still in beta. I have a feeling that it is not secure enough.",
+    "minPoints": 100,
+    "maxPoints": 500,
+    "category":"Web",
+    "flag":"flag{pR0707yP3_p0150n1n9_AND_v173j5_5ay_n01c3_99}"
+}

@@ -1,0 +1,9 @@
+{
+    "author":"p1r4t3",
+    "challengeName":"too-many-admins",
+    "challengeDescription" :"Too many admins spoil the broth. Can you login as the right admin and get the flag ?",
+    "minPoints": 100,
+    "maxPoints": 300,
+    "category":"Web",
+    "flag":"flag{1m40_php_15_84d_47_d1ff323n71471n9_7yp35}"
+}
